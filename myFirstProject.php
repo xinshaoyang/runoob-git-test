@@ -5,4 +5,5 @@
 	}
 	$ip = getIp();
 	echo $ip;
+	how to use chinanse;
 ?>
